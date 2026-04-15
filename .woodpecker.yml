@@ -23,7 +23,7 @@ steps:
   - name: docker
     image: woodpeckerci/plugin-docker-buildx
     settings:
-      repo: saiharsha-plivo/woodpecker-app
+      repo: saiharshaplivo/woodpecker-app
       tags: latest
       dockerfile: Dockerfile
       username:
