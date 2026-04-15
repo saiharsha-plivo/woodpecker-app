@@ -26,3 +26,7 @@ steps:
       repo: saiharsha-plivo/woodpecker-app
       tags: latest
       dockerfile: Dockerfile
+      username:
+        from_secret: docker_username
+      password:
+        from_secret: docker_password
