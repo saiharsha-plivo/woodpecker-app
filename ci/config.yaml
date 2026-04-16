@@ -1,0 +1,3 @@
+parent: devops
+serviceName: woodpecker-app
+language: golang

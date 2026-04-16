@@ -1,0 +1,8 @@
+debug: true
+qa: true
+smokeTests: false
+build: true
+deployDev: false
+deployStaging: false
+deployProd: false
+postDeploy: false
