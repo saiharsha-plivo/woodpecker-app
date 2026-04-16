@@ -1,5 +1,6 @@
 parent: devops
 serviceName: woodpecker-app
 language: golang
+buildContainer: golang:1.24
 trivyBypass: true
 ignoreMisconfigFailure: true
