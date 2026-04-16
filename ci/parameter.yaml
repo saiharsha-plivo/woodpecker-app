@@ -1,6 +1,6 @@
 debug: true
 qa: true
-smokeTests: false
+smokeTests: true
 build: true
 deployDev: false
 deployStaging: false
